@@ -63,6 +63,6 @@ Pull requests are welcome! If you have any suggestions, feel free to contribute.
 This project is licensed under the **MIT License**.
 
 ---
-**Author:** akshataudri 
+**Author:** akshataundri 
 
 
